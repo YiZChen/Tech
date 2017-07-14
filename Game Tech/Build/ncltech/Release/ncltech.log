@@ -1,0 +1,20 @@
+﻿  CollisionDetectionSAT.cpp
+  CommonMeshes.cpp
+  CommonUtils.cpp
+  CuboidCollisionShape.cpp
+  NetworkBase.cpp
+  ObjectMeshDragable.cpp
+  NCLDebug.cpp
+  Object.cpp
+  Hull.cpp
+  Manifold.cpp
+  PhysicsEngine.cpp
+  PhysicsObject.cpp
+  RenderList.cpp
+  SceneManager.cpp
+  SceneRenderer.cpp
+  Scene.cpp
+  ScreenPicker.cpp
+  ObjectMesh.cpp
+  SphereCollisionShape.cpp
+  ncltech.vcxproj -> C:\Users\B6054990\Desktop\Game-Tech\Game Tech\Build\Release\ncltech.lib

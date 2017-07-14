@@ -1,0 +1,14 @@
+﻿Build started 14/12/2016 23:13:17.
+     1>Project "C:\Users\B6054990\Desktop\Tech for Games\Build\Tuts_Network_Server\Tuts_Network_Server.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\B6054990\Desktop\Tech for Games\Build\Debug\Tuts_Network_Server.exe" /INCREMENTAL /NOLOGO nclgl.lib ncltech.lib enet.lib ws2_32.lib Winmm.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\B6054990\Desktop\Tech for Games\Build\Debug\Tuts_Network_Server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\B6054990\Desktop\Tech for Games\Build\Debug\Tuts_Network_Server.lib" /MACHINE:X86 Debug\main.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Tuts_Network_Server.vcxproj -> C:\Users\B6054990\Desktop\Tech for Games\Build\Debug\Tuts_Network_Server.exe
+     1>Done Building Project "C:\Users\B6054990\Desktop\Tech for Games\Build\Tuts_Network_Server\Tuts_Network_Server.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.32

@@ -1,0 +1,21 @@
+﻿  Main.cpp
+  Scene_Main.cpp
+Scene_Main.cpp(48): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene_Main.cpp(79): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+Scene_Main.cpp(328): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene_Main.cpp(339): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene_Main.cpp(350): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene_Main.cpp(360): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene_Main.cpp(371): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene_Main.cpp(382): warning C4305: 'argument': truncation from 'double' to 'const float'
+Scene_Main.cpp(405): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+Scene_Main.cpp(411): warning C4305: 'argument': truncation from 'double' to 'float'
+Scene_Main.cpp(427): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+Scene_Main.cpp(433): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  3253 of 3393 functions (95.9%) were compiled, the rest were copied from previous compilation.
+    103 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameTech_Coursework.vcxproj -> C:\Users\B6054990\Desktop\Game-Tech\Game Tech\Build\Release\GameTech_Coursework.exe
+  GameTech_Coursework.vcxproj -> C:\Users\B6054990\Desktop\Game-Tech\Game Tech\Build\Release\GameTech_Coursework.pdb (Full PDB)
